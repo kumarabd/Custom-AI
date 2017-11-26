@@ -1,0 +1,10 @@
+
+# application files
+*.pyc
+*.pickle
+*.config
+
+# folder
+pickled/
+__pycache__/
+.idea/
